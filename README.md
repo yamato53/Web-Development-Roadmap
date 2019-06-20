@@ -1,6 +1,6 @@
 # web-development-roadmap
 
-A light weight repository for web development resources, tools and tutorials.
+A light weight repository of free web development resources, tools and tutorials.
 
 >**Note:** I'll continue to expand on this repository with helpful links, tools, tutorials and insights that I find along the way.
 
@@ -58,6 +58,16 @@ CSS is (in my utterly useless opinion) the easiest and most entertaining part of
 After you’ve finished that, do this short series of tutorials, as they do a great job laying out how HTML and CSS link together to build a good looking webpage. Aside from teaching core knowledge, they go over a lot of website best practices and other dos and don’ts.
 
 - [Interneting is Hard](https://internetingishard.com/html-and-css/)
+
+## CSS - Learn Flexbox
+
+Flexbox is the foundation for modern web development and allows for easy manipulation of block elements. Here's a great tutorial on how exactly flexbox works.
+
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+
+If you ever need a reminder on how a certain flexbox element works, there's a fantastic Codepen playground setup to test different styles.
+
+- [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/)
 
 # JavaScript Resources
 
