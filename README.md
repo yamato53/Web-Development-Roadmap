@@ -25,14 +25,16 @@ That being said, here's my personal recommendation on where to begin:
 4. The DOM (How websites are built)
 5. JavaScript Basics
 
-Learning HTML, CSS and the Inspector tool are fundamental and super easy. By just fiddling around with Chrome's Dev Tools I was able to have a fairly solid understanding of HTML and CSS before I even took classes on them.
+Learning HTML, CSS and your browser's development tools is fairly easy, and fundamental in your journey towards building websites. 
+
+Heck, by just fiddling around with Chrome's Dev Tools I was able to have a fairly solid understanding of HTML and CSS before I even took classes on them.
 
 
-> **Note:** A lot of the content here is going to overlap - that's a good thing. You'll likely find yourself repeating the very basics of web development (particularly JS) over and over until you finally have those key lightbulb moment. That same "Aha!" moment will happen again and again until you finally have a solid understanding of the subjects at hand.
+> **Note:** A lot of the content here is going to overlap - that's a good thing. You'll likely find yourself repeating the very basics of web development (particularly JS) over and over until you finally have those key lightbulb moment. That same "Aha!" moment will happen again and again until you finally have a firm grasp on the subjects at hand.
 
 # What You’ll Need
 
-There’s a bajillion different tools available to write code in, but the most comprehensive is Visual Studio Code. Of course, if you don’t like VSC you can check out some other popular editors, such as:
+There’s a massive amount of different tools available to writing code easier, with the most widely used being [Visual Studio Code](https://code.visualstudio.com/). Of course, if you don’t like VSC you can check out some other popular editors, such as:
 
 - Atom
 - Sublime Text
