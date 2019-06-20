@@ -6,7 +6,12 @@ A light weight repository for web development resources, tools and tutorials.
 
 # Table of Contents
 1. [Getting Started](https://github.com/yamato53/Web-Development-Roadmap#getting-started)
-<a name="#getting-started"></a>
+2. [What You'll Need](https://github.com/yamato53/Web-Development-Roadmap#what-youll-need)
+3. [HTML Resources](https://github.com/yamato53/Web-Development-Roadmap#html-resources)
+4. [CSS Resources](https://github.com/yamato53/Web-Development-Roadmap#css-resources)
+5. [JavaScript Resources](https://github.com/yamato53/Web-Development-Roadmap#javascript-resources)
+6. [Node Resources](https://github.com/yamato53/Web-Development-Roadmap#node-resources)
+
 # Getting Started
 
 For starters, I'd recommend taking a look at the broad overview of web development. I've found this resource, [Front End Handbook](https://frontendmasters.com/books/front-end-handbook/2019/), to be the most comprehensive breakdown of front-end web development. While it doesn’t provide direct links to resources on a lot of things, it lays out exactly what you need to know and even recommends the order in which to begin learning.
