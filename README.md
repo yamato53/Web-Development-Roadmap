@@ -11,6 +11,7 @@ A light weight repository of free web development resources, tools and tutorials
 4. [CSS Resources](https://github.com/yamato53/Web-Development-Roadmap#css-resources)
 5. [JavaScript Resources](https://github.com/yamato53/Web-Development-Roadmap#javascript-resources)
 6. [Node Resources](https://github.com/yamato53/Web-Development-Roadmap#node-resources)
+7. [Git](https://github.com/yamato53/Web-Development-Roadmap#git)
 
 # Getting Started
 
@@ -108,3 +109,13 @@ Here’s a quick guide to installing Node.js on your computer if you want to tin
 You can download the full Node compiler here.
 
 - [Node.js](https://nodejs.org/en/download/)
+
+# Git
+
+Git is the primary form of source control and colaberative work-space for pretty much every company that works with code of nearly any type. It easily allows you to maintain source control, keep backups, stay synced and leave a bread-trail of changes in a multi-team project.
+
+> **Note:** Git and GitHub (or GitLab) are not the same thing. Git was developed and maintained by Linus Torvalds (creator of linux) as a VCS to make colaberative programming easy and simple. On the otherhand, Github (and other similar hosting platforms) work in conjunction with Git to host the changes made on the Git VCS. Think of GitHub as the cloud which displays and distributes information, while Git is the pipeline which sends the data between users and the cloud.
+
+This is a fantastic tutorial to get yourself quickly up to speed on what Git is and how to use it. To put it simply, it's about 5 commands in DOS.
+
+- [Git For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
