@@ -2,7 +2,7 @@
 
 A light weight repository of free web development resources, tools and tutorials.
 
->**Note:** I'll continue to expand on this repository with helpful links, tools, tutorials and insights that I find along the way.
+>**Note:** I will continue to expand on this light-weight guide with helpful links, tools, tutorials and insights that I find helpful to aspiring programmers.
 
 # Table of Contents
 1. [Getting Started](https://github.com/yamato53/Web-Development-Roadmap#getting-started)
