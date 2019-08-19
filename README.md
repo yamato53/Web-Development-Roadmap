@@ -35,7 +35,10 @@ Heck, by just fiddling around with Chrome's Dev Tools I was able to have a fairl
 
 # What You’ll Need
 
-There’s a massive amount of different tools available to writing code easier, with the most widely used being [Visual Studio Code](https://code.visualstudio.com/). Of course, if you don’t like VSC you can check out some other popular editors, such as:
+There’s a large variety of tools available that make writing code and keeping your projects organized. You'll commonly hear these referred to as IDEs (Independant Development Environments) or code editors. An IDE can have a big impact on how comfortable you are while coding, so make sure to try out a few different options to find what works best for you.
+
+
+Personally, I recommend [Visual Studio Code](https://code.visualstudio.com/), as this is the industry standard with over 63% of programmers using in on both their professional and personal projects. If you want something a bit less complex and heavy-duty, here's a few other options to check out.
 
 - Atom
 - Sublime Text
@@ -44,7 +47,7 @@ There’s a massive amount of different tools available to writing code easier, 
 
 # HTML Resources
 
-This was my personal favorite for touching on HTML and CSS for the first time.
+Starting with the easiest of the "core three" skills, we have HTML. I always recommend Codecademy to total beginners as they do a good job holding your hand throught he very basics of HTML within a contained environment (you write all the code within their site). Of course, if you already have a bit of HTML know-how, I'd suggest skipping this and going straight to [Interneting is Hard](https://internetingishard.com/html-and-css/).
 
 - [Codecademy HTML](https://www.codecademy.com/learn/learn-html)
 
@@ -56,7 +59,7 @@ CSS is (in my utterly useless opinion) the easiest and most entertaining part of
 
 - [Codecademy CSS](https://www.codecademy.com/learn/learn-css)
 
-After you’ve finished that, do this short series of tutorials, as they do a great job laying out how HTML and CSS link together to build a good looking webpage. Aside from teaching core knowledge, they go over a lot of website best practices and other dos and don’ts.
+After you’ve finished with Codecademy's tutorials, head on over to this short series of tutorials. They do a great job laying out how HTML and CSS link together. Aside from teaching great fundamental skills, they go over a lot of website best practices and other dos and don’ts that will save you from many common mistakes beginner devs make.
 
 - [Interneting is Hard](https://internetingishard.com/html-and-css/)
 
