@@ -55,11 +55,13 @@ While Codecademy isn't the best place to learn how all of these different puzzle
 
 # CSS Resources
 
-CSS is (in my utterly useless opinion) the easiest and most entertaining part of web development. Again, I recommend starting with codecademy’s stuff because it’s very basic.
+Here's where things start to get fun. CSS is what makes websites look more exciting than just a boring page of black text on a white background. CSS lets you change the font styles, colors, layout, animation of your site, just to name a few. CSS is definitely the most fun part of web development, so let's get started! 
+
+Again, I recommend Codecademy’s tutorials if you're a total beginner, as they do a good job guiding you step-by-step without overloading you with too much information.
 
 - [Codecademy CSS](https://www.codecademy.com/learn/learn-css)
 
-After you’ve finished with Codecademy's tutorials, head on over to this short series of tutorials. They do a great job laying out how HTML and CSS link together. Aside from teaching great fundamental skills, they go over a lot of website best practices and other dos and don’ts that will save you from many common mistakes beginner devs make.
+After you’ve finished with Codecademy's tutorials, head on over to this short series of tutorials. You'll learn more in-depth how HTML and CSS files hook together to build a good looking website. Aside from teaching great fundamental skills, they also touch on some web development best-practices that will save you from many of the most common mistakes beginner devs make.
 
 - [Interneting is Hard](https://internetingishard.com/html-and-css/)
 
@@ -75,7 +77,9 @@ If you ever need a reminder on how a certain flexbox element works, there's a fa
 
 # JavaScript Resources
 
-JavaScript is where things start to get interesting. Why? Because code is fundamentally different than anything else you’ve done before. By that I mean, computers work on a series of 1's and 0's, yes and nos, if's and else's. As such, it's difficult (at first) to wrap your head around the basic idea of why code is written the way it is. 
+JavaScript is where things start to get interesting. This section is where you'll finally learn the first steps of actually *programming* in web development. As such, this is likely where you'll spend the longest time learning material, building projects and writing code. Programming is tough! But don't let that discourage you. Start out with small steps and really do your best to understand the concepts you're learning before moving on to more advanced parts of JS.
+
+Coding is fundamentaly different than anything you've likely learned in the past, so take your time! If you get stuck, don't skip by. Learning and solving solutions is the essence of a programmer's career. As such, learning and developing your puzzle solving skills is critical to your future life as a dev.
 
 With that said, I’d start here.
 
