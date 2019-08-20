@@ -38,10 +38,15 @@ Heck, by just fiddling around with Chrome's Dev Tools I was able to have a fairl
 There’s a large variety of tools available that make writing code and keeping your projects organized. You'll commonly hear these referred to as IDEs (Independant Development Environments) or code editors. An IDE can have a big impact on how comfortable you are while coding, so make sure to try out a few different options to find what works best for you.
 
 
-Personally, I recommend [Visual Studio Code](https://code.visualstudio.com/), as this is the industry standard with over 63% of programmers using in on both their professional and personal projects. If you want something a bit less complex and heavy-duty, here's a few other options to check out.
+Personally, I recommend [Visual Studio Code](https://code.visualstudio.com/), as this is the industry standard with over 63% of programmers using in for both their professional and personal projects. If you want something a bit less complex and heavy-duty, here's a few other options to check out.
 
 - Atom
 - Sublime Text
+- Xcode
+- Eclipse
+
+If you just need a simple browser-based code editor, try one of these tools.
+
 - Codepen (online code editor)
 - JSfiddle (online code editor)
 
