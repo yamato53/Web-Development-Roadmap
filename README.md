@@ -1,6 +1,6 @@
 # web-development-roadmap
 
-A lightweight repository of free web development resources, tools and tutorials.
+A simple collection of beginner guides for those who want to learn web development.
 
 >**Note:** I will continue to expand on this guide with links, tools, tutorials and insights that I find helpful for aspiring programmers (and myself!).
 
