@@ -82,7 +82,7 @@ If you ever need a reminder on how a certain flexbox element works, there's a fa
 
 # JavaScript Resources
 
-JavaScript is where things start to get interesting. This section is where you'll finally start learning the actual *programming* language of web development. As such, this is likely where you'll spend the longest time learning material, building projects and writing code. Programming is tough! But don't let that discourage you. Start out with small steps and really do your best to understand the concepts presented to you before moving on.
+JavaScript is where things start to get interesting. This section is where you'll finally start learning the actual *programming*  language of web development. As such, this is likely where you'll spend the longest time learning material, building projects and writing code. Programming is tough! But don't let that discourage you. Start out with small steps and really do your best to understand the concepts presented to you before moving on.
 
 Now, it's quite likely that programming is fundamentally different than anything you've learned before, so take your time! If you get stuck, don't skip by. Learning how to develop solutions and persevere over difficult challenges is what sets apart great programmers from the bad ones. As such, honing your puzzle solving skills is critical to your life as a dev.
 
@@ -106,7 +106,7 @@ After that, I’d read this series of ebooks, it’s fantastic about grilling in
 
 # Node Resources
 
-Node is the compiler that allows JavaScript to actually run. You don’t really need to learn about this until much later, but it doesn’t hurt to know what it actually is as you'll be hearing the name a lot.
+Node is the compiler that allows JavaScript to actually run. You don’t really need to learn about this until much later, but it doesn’t hurt to know what it actually is, as you'll be hearing the name a lot.
 
 This is a good, simple breakdown of what node is.
 
@@ -114,7 +114,7 @@ This is a good, simple breakdown of what node is.
 
 As for using Node, that's outside the scope of this tutorial and I recommend putting it off until you have a better grasp on the basics of JS.
 
-Here’s a quick guide to installing Node.js on your computer if you want to tinker with it, though you likely won’t mess with Node for a quite a while.
+Here’s a quick guide to installing Node.js on your computer if you want to tinker with it, though you likely won’t mess with Node for quite a while.
 
 - [How to use Node Package Manager](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 
@@ -124,10 +124,10 @@ You can download the full Node compiler here.
 
 # Git
 
-Git is the primary form of source control and colaberative work-space for pretty much every company that works with code of nearly any type. It easily allows you to maintain source control, keep backups, stay synced and leave a bread-trail of changes in a multi-team project.
+Git is used by nearly every programmer for a collaberative work environment and source control. It allows dev teams to work together harmoniosly by providing a cloud shared repository for your projects, as well as a slew of other benefits. Learn to love git, you'll be using it every day!
 
-> **Note:** Git and GitHub (or GitLab) are not the same thing. Git was developed and maintained by Linus Torvalds (creator of linux) as a VCS to make colaberative programming easy and simple. On the otherhand, Github (and other similar hosting platforms) work in conjunction with Git to host the changes made on the Git VCS. Think of GitHub as the cloud which displays and distributes information, while Git is the pipeline which sends the data between users and the cloud.
+> **Note:** Git and GitHub are not the same thing. Git was developed and maintained by Linus Torvalds (creator of linux) as a version control system (VCS) to make programming easier for teams of any size. On the otherhand, Github (and other similar hosting platforms) work in conjunction with Git to host the changes made on the Git VCS. Think of GitHub as the GUI which houses and displays everything, while Git is the pipeline that sends information between you (or others) and the host.
 
-This is a fantastic tutorial to get yourself quickly up to speed on what Git is and how to use it. To put it simply, it's about 5 commands in DOS.
+This is a fantastic tutorial to get yourself quickly up to speed on what Git is and how to use it. For most beginners, all you really need to know is 5 simple commands.
 
 - [Git For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
