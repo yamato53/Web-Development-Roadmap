@@ -124,9 +124,9 @@ You can download the full Node compiler here.
 
 # Git
 
-Git is used by nearly every programmer for a collaberative work environment and source control. It allows dev teams to work together harmoniosly by providing a cloud shared repository for your projects, as well as a slew of other benefits. Learn to love git, you'll be using it every day!
+Git is used by nearly every programmer for a collaborative work environment and source control. It allows dev teams to work together harmoniously by providing a cloud shared repository for your projects, as well as a slew of other benefits. Learn to love git, you'll be using it every day!
 
-> **Note:** Git and GitHub are not the same thing. Git was developed and maintained by Linus Torvalds (creator of linux) as a version control system (VCS) to make programming easier for teams of any size. On the otherhand, Github (and other similar hosting platforms) work in conjunction with Git to host the changes made on the Git VCS. Think of GitHub as the GUI which houses and displays everything, while Git is the pipeline that sends information between you (or others) and the host.
+> **Note:** Git and GitHub are not the same thing. Git was developed and maintained by Linus Torvalds (creator of linux) as a version control system (VCS) to make programming easier for teams of any size. On the other hand, Github (and other similar hosting platforms) work in conjunction with Git to host the changes made on the Git VCS. Think of GitHub as the GUI which houses and displays everything, while Git is the pipeline that sends information between you (or others) and the host.
 
 This is a fantastic tutorial to get yourself quickly up to speed on what Git is and how to use it. For most beginners, all you really need to know is 5 simple commands.
 
