@@ -1,6 +1,6 @@
 # web-development-roadmap
 
-A light weight repository of free web development resources, tools and tutorials.
+A lightweight repository of free web development resources, tools and tutorials.
 
 >**Note:** I will continue to expand on this guide with links, tools, tutorials and insights that I find helpful for aspiring programmers (and myself!).
 
@@ -35,7 +35,7 @@ Heck, by just fiddling around with Chrome's Dev Tools I was able to have a fairl
 
 # What You’ll Need
 
-There’s a large variety of tools available that make writing code and keeping your projects organized. You'll commonly hear these referred to as IDEs (Independant Development Environments) or code editors. An IDE can have a big impact on how comfortable you are while coding, so make sure to try out a few different options to find what works best for you.
+There’s a large variety of tools available that make writing code and keeping your projects organized. You'll commonly hear these referred to as IDEs (Independent Development Environments) or code editors. An IDE can have a big impact on how comfortable you are while coding, so make sure to try out a few different options to find what works best for you.
 
 
 Personally, I recommend [Visual Studio Code](https://code.visualstudio.com/), as this is the industry standard with over 63% of programmers using in for both their professional and personal projects. If you want something a bit less complex and heavy-duty, here's a few other options to check out.
@@ -52,7 +52,7 @@ If you just need a simple browser-based code editor, try one of these tools.
 
 # HTML Resources
 
-Starting with the easiest of the "core three" skills, we have HTML. I always recommend Codecademy to total beginners as they do a good job holding your hand throught he very basics of HTML within a contained environment (you write all the code within their site). Of course, if you already have a bit of HTML know-how, I'd suggest skipping this and going straight to [Interneting is Hard](https://internetingishard.com/html-and-css/).
+Starting with the easiest of the "core three" skills, we have HTML. I always recommend Codecademy to total beginners as they do a good job holding your hand through the very basics of HTML within a contained environment (you write all the code within their site). Of course, if you already have a bit of HTML know-how, I'd suggest skipping this and going straight to [Interneting is Hard](https://internetingishard.com/html-and-css/).
 
 - [Codecademy HTML](https://www.codecademy.com/learn/learn-html)
 
@@ -60,7 +60,7 @@ While Codecademy isn't the best place to learn how all of these different puzzle
 
 # CSS Resources
 
-Here's where things start to get fun. CSS is what makes websites look more exciting than just a boring page of black text on a white background. CSS lets you change the font styles, colors, layout, animation of your site, just to name a few. CSS is definitely the most fun part of web development, so let's get started! 
+Here's where things start to get fun. CSS is what makes websites look more exciting than just boring pages of black serif text on white backgrounds. CSS lets you change the font styles, colors, layout, animation of your site, just to name a few. CSS is definitely the most fun part of web development, so let's get started! 
 
 Again, I recommend Codecademy’s tutorials if you're a total beginner, as they do a good job guiding you step-by-step without overloading you with too much information.
 
@@ -82,15 +82,15 @@ If you ever need a reminder on how a certain flexbox element works, there's a fa
 
 # JavaScript Resources
 
-JavaScript is where things start to get interesting. This section is where you'll finally learn the first steps of actually *programming* in web development. As such, this is likely where you'll spend the longest time learning material, building projects and writing code. Programming is tough! But don't let that discourage you. Start out with small steps and really do your best to understand the concepts you're learning before moving on to more advanced parts of JS.
+JavaScript is where things start to get interesting. This section is where you'll finally start learning the actual *programming* language of web development. As such, this is likely where you'll spend the longest time learning material, building projects and writing code. Programming is tough! But don't let that discourage you. Start out with small steps and really do your best to understand the concepts presented to you before moving on.
 
-Coding is fundamentaly different than anything you've likely learned in the past, so take your time! If you get stuck, don't skip by. Learning and solving solutions is the essence of a programmer's career. As such, learning and developing your puzzle solving skills is critical to your future life as a dev.
+Now, it's quite likely that programming is fundamentally different than anything you've learned before, so take your time! If you get stuck, don't skip by. Learning how to develop solutions and persevere over difficult challenges is what sets apart great programmers from the bad ones. As such, honing your puzzle solving skills is critical to your life as a dev.
 
 With that said, I’d start here.
 
 - [Codecademy JS Basics](https://www.codecademy.com/learn/introduction-to-javascript)
 
-Yet again, Codecademy is a decent resource for absolute beginners that won’t bog you down. For now, just learn the syntax and don’t worry about how your code will actually be implemented in the real world.
+Yet again, Codecademy is a decent resource for absolute beginners that won’t scare you away with advanced programming concepts. For now, just learn the syntax and don’t worry about how your code will actually be implemented in the real world.
 
 Next, do this series of videos, they are by-far the best series of tutorials I’ve found that teaches you real-world application of the JS syntax and code you'll be writing.
 
