@@ -82,7 +82,7 @@ If you ever need a reminder on how a certain flexbox element works, there's a fa
 
 # JavaScript Resources
 
-JavaScript is where things start to get interesting. This section is where you'll finally start learning the actual *programming*  language of web development. As such, this is likely where you'll spend the longest time learning material, building projects and writing code. Programming is tough! But don't let that discourage you. Start out with small steps and really do your best to understand the concepts presented to you before moving on.
+JavaScript is where things start to get interesting, as this is where you'll finally start learning the actual *programming* language of web development. As such, this is likely where you'll spend the longest time learning material, building projects and writing code. Programming is tough! But don't let that discourage you. Start out with small steps and really do your best to understand the concepts presented to you before moving on.
 
 Now, it's quite likely that programming is fundamentally different than anything you've learned before, so take your time! If you get stuck, don't skip by. Learning how to develop solutions and persevere over difficult challenges is what sets apart great programmers from the bad ones. As such, honing your puzzle solving skills is critical to your life as a dev.
 
