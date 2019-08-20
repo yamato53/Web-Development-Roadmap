@@ -7,10 +7,10 @@ A simple collection of beginner guides for those who want to learn web developme
 # Table of Contents
 1. [Getting Started](https://github.com/yamato53/Web-Development-Roadmap#getting-started)
 2. [What You'll Need](https://github.com/yamato53/Web-Development-Roadmap#what-youll-need)
-3. [HTML Resources](https://github.com/yamato53/Web-Development-Roadmap#html-resources)
-4. [CSS Resources](https://github.com/yamato53/Web-Development-Roadmap#css-resources)
-5. [JavaScript Resources](https://github.com/yamato53/Web-Development-Roadmap#javascript-resources)
-6. [Node Resources](https://github.com/yamato53/Web-Development-Roadmap#node-resources)
+3. [HTML](https://github.com/yamato53/Web-Development-Roadmap#html)
+4. [CSS](https://github.com/yamato53/Web-Development-Roadmap#css)
+5. [JavaScript](https://github.com/yamato53/Web-Development-Roadmap#javascript)
+6. [Node](https://github.com/yamato53/Web-Development-Roadmap#node)
 7. [Git](https://github.com/yamato53/Web-Development-Roadmap#git)
 
 # Getting Started
@@ -50,7 +50,7 @@ If you just need a simple browser-based code editor, try one of these tools.
 - Codepen (online code editor)
 - JSfiddle (online code editor)
 
-# HTML Resources
+# HTML
 
 Starting with the easiest of the "core three" skills, we have HTML. I always recommend Codecademy to total beginners as they do a good job holding your hand through the very basics of HTML within a contained environment (you write all the code within their site). Of course, if you already have a bit of HTML know-how, I'd suggest skipping this and going straight to [Interneting is Hard](https://internetingishard.com/html-and-css/).
 
@@ -58,7 +58,7 @@ Starting with the easiest of the "core three" skills, we have HTML. I always rec
 
 While Codecademy isn't the best place to learn how all of these different puzzle pieces link together, it does do a great job laying out the basic foundation for you.
 
-# CSS Resources
+# CSS
 
 Here's where things start to get fun. CSS is what makes websites look more exciting than just boring pages of black serif text on white backgrounds. CSS lets you change the font styles, colors, layout, animation of your site, just to name a few. CSS is definitely the most fun part of web development, so let's get started! 
 
@@ -80,7 +80,7 @@ If you ever need a reminder on how a certain flexbox element works, there's a fa
 
 - [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/)
 
-# JavaScript Resources
+# JavaScript
 
 JavaScript is where things start to get interesting, as this is where you'll finally start learning the actual *programming* language of web development. As such, this is likely where you'll spend the longest time learning material, building projects and writing code. Programming is tough! But don't let that discourage you. Start out with small steps and really do your best to understand the concepts presented to you before moving on.
 
@@ -104,7 +104,7 @@ After that, I’d read this series of ebooks, it’s fantastic about grilling in
 
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
-# Node Resources
+# Node
 
 Node is the compiler that allows JavaScript to actually run. You don’t really need to learn about this until much later, but it doesn’t hurt to know what it actually is, as you'll be hearing the name a lot.
 
