@@ -20,11 +20,11 @@ For starters, I'd recommend taking a look at the broad overview of web developme
 Don’t get overwhelmed looking at the list, it’s easier than it looks and you’ll pick up a lot of it along the way.
 That being said, here's my personal recommendation on where to begin:
 
-1. HTML
-2. CSS
-3. Chrome Dev Tools. (right click on a web page -> inspect)
-4. The DOM (How websites are built)
-5. JavaScript Basics
+1. **HTML
+2. **CSS
+3. **Browser Developer Tools
+4. **The DOM** (How websites are sctructured by the browser)
+5. **JavaScript Basics
 
 Learning HTML, CSS and your browser's development tools is fairly easy, and fundamental in your journey towards building websites. 
 
@@ -40,15 +40,15 @@ There’s a large variety of tools available that make writing code and keeping 
 
 Personally, I recommend [Visual Studio Code](https://code.visualstudio.com/), as this is the industry standard with over 63% of programmers using in for both their professional and personal projects. If you want something a bit less complex and heavy-duty, here's a few other options to check out.
 
-- Atom
-- Sublime Text
-- Xcode
-- Eclipse
+- **Atom
+- **Sublime Text
+- **Xcode
+- **Eclipse
 
 If you just need a simple browser-based code editor, try one of these tools.
 
-- Codepen (online code editor)
-- JSfiddle (online code editor)
+- **Codepen** (online code editor)
+- **JSfiddle** (online code editor)
 
 # HTML
 
@@ -126,7 +126,9 @@ You can download the full Node compiler here.
 
 Git is used by nearly every programmer for a collaborative work environment and source control. It allows dev teams to work together harmoniously by providing a cloud shared repository for your projects, as well as a slew of other benefits. Learn to love git, you'll be using it every day!
 
-> **Note:** Git and GitHub are not the same thing. Git was developed and maintained by Linus Torvalds (creator of linux) as a version control system (VCS) to make programming easier for teams of any size. On the other hand, Github (and other similar hosting platforms) work in conjunction with Git to host the changes made on the Git VCS. Think of GitHub as the GUI which houses and displays everything, while Git is the pipeline that sends information between you (or others) and the host.
+> **Note:** Git and GitHub are not the same thing! Git was developed and maintained by Linus Torvalds (creator of linux) as a version control system (VCS) to help better maintain software in larger teams. 
+
+> On the other hand, Github (and other similar hosting platforms) work in conjunction with Git to host the changes made on the Git VCS. Think of GitHub as a better UI than simply using the terminal, while Git is the pipeline that handles all of the information (requests, branches, commits, etc).
 
 This is a fantastic tutorial to get yourself quickly up to speed on what Git is and how to use it. For most beginners, all you really need to know is 5 simple commands.
 
